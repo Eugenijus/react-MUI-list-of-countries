@@ -1,3 +1,5 @@
+# React Hooks exercise
+
 The goal of this exercise is to learn how to fetch REST data using useEffect hook
 and display it using Material UI
 
@@ -5,7 +7,7 @@ and display it using Material UI
    1.1) fetch URL http://restcountries.eu/rest/v2/all?fields=name
    1.2) use only functional component and useEffect() hook
    1.3) use useState to save list of countries
-   1.4) Display countries using HTML list (<ul>, <li>)
+   1.4) Display countries using HTML list (ul, li)
 2. import Material UI to show countries in a dropdown
    2.1) change fetch URL to http://restcountries.eu/rest/v2/all?fields
    2.2) use alpha2Code as a value
