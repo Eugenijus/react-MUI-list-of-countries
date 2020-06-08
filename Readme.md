@@ -2,6 +2,7 @@
 
 The goal of this exercise is to learn how to fetch REST data using useEffect hook
 and display it using Material UI
+https://codesandbox.io/s/react-mui-list-of-countries-281zv
 
 1. Fetch countries using:
    1.1) fetch URL http://restcountries.eu/rest/v2/all?fields=name
